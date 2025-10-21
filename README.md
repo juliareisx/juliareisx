@@ -9,14 +9,14 @@ Tenho grande interesse em **desenvolvimento de softwares, design de interfaces e
 Busco constantemente aprender e evoluir na área, unindo lógica, arte e inovação.  
 
 <p align="left">
-    <a href="https://www.instagram.com/reis_juliacardoso/">
+    <a href="https://www.instagram.com/reis_juliacardoso/" target="_blank">
         <img 
             alt="Instagram"
             title="Me acompanhe no Instagram"
             src="https://custom-icon-badges.demolab.com/badge/-@reis__juliacardoso-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/j%C3%BAlia-cardoso-reis-4a0b1b37a/">
+    <a href="https://www.linkedin.com/in/j%C3%BAlia-cardoso-reis-4a0b1b37a/" target="_blank">
         <img 
             alt="LinkedIn"
             title="Meu perfil no LinkedIn"
