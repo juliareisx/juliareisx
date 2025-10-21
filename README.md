@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End e um pouco de Back-End`**
 
-Me chamo **Júlia Reis**, tenho 16 anos e sou uma jovem apaixonada por **tecnologia, design e criatividade**.  
+Me chamo **Júlia Cardoso Reis**, tenho 16 anos e sou uma jovem apaixonada por **tecnologia, design e criatividade**.  
 Sou formada no **Curso Técnico em Informática para Internet pelo SENAC** e atualmente curso o **programa Jovem Programadora**, também pelo SENAC.  
 Além disso, estudo **Ensino Médio integrado ao Técnico em Administração**.  
 Tenho grande interesse em **desenvolvimento de softwares, design de interfaces e criação de experiências digitais criativas**.  
